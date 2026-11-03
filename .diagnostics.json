@@ -1,0 +1,26 @@
+{
+  "at": "2026-11-03T11:04:27.266Z",
+  "report": {
+    "filter": "installed",
+    "visibleSections": 2,
+    "hiddenSections": 2,
+    "sectionIds": [
+      "plugin-settings",
+      "plugins",
+      "bili",
+      "vision-router"
+    ],
+    "hiddenIds": [
+      "bili",
+      "vision-router"
+    ],
+    "copies": [
+      "bili",
+      "vision-router"
+    ],
+    "hub": "registered",
+    "filterFailed": false,
+    "at": "2026-11-03T11:04:27.260Z",
+    "href": "dsh-app://app/"
+  }
+}
